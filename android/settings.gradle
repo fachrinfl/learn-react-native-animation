@@ -1,0 +1,3 @@
+rootProject.name = 'LearnReactNativeAnimation'
+
+include ':app'
